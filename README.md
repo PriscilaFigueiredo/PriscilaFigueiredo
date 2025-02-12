@@ -7,18 +7,18 @@ Passionate about reliable, high-quality software. 🚀
 
 --------------------------------------------------------------------------
 <br>
-🤝 I'm looking for opportunities to collaborate on software quality and testing projects. As a test analyst, I'm skilled at diving into requirements, putting together thorough test cases, and running functional and regression tests. I'm all about making sure software products are top-notch, reliable, and perform well.
-And I'm always striving to sharpen my skills and share what I know with the team.
+🤝 I'm looking for opportunities to work as a software quality analyst. I have experience in requirements analysis, creating detailed test cases, and executing functional and non-functional tests, working in teams that used the Scrum framework. I'm committed to continuous learning to deliver excellent work.
 <br>
 <br>
 
-🧠 I’m currently learning Front-end test automation tools, using Cypress and Robot, enhancing my skills in back-end testing with Postman and JavaScript.
+🧠 Currently, I'm deepening my knowledge in Front-end test automation with Cypress and Robot Framework, as well as enhancing my skills in Back-end testing using Postman and JavaScript
 <br>
 <br>
 
 ### 🎖️ Languages
 ◾  ***Advanced English*** - [TALKNTALK](https://www.talkntalk.com.br/)
-◾  ***Intermediate Spanish***
+<br>
+◾  ***Intermediate Spanish*** - [TALKNTALK](https://www.talkntalk.com.br/)
 <br>
 <br>
 ### Technology Skills
@@ -33,6 +33,8 @@ And I'm always striving to sharpen my skills and share what I know with the team
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)]()
 [![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+[![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()
+[![](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)]()
 <br>
 <br>
 
