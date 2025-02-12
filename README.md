@@ -17,7 +17,7 @@ And I'm always striving to sharpen my skills and share what I know with the team
 <br>
 
 ### 🎖️ Languages
-◾  ***Intermediate English*** - [TALKNTALK](https://www.talkntalk.com.br/)
+◾  ***Avançado English*** - [TALKNTALK](https://www.talkntalk.com.br/)
 <br>
 <br>
 ### Technology Skills
