@@ -16,9 +16,9 @@ Passionate about reliable, high-quality software. 🚀
 <br>
 
 ### 🎖️ Languages
-◾  ***Advanced English*** - [TALKNTALK](https://www.talkntalk.com.br/)
+◾  ***Advanced English*** 
 <br>
-◾  ***Intermediate Spanish*** - [TALKNTALK](https://www.talkntalk.com.br/)
+◾  ***Intermediate Spanish*** 
 <br>
 <br>
 ### Technology Skills
