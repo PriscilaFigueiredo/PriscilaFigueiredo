@@ -1,5 +1,5 @@
 
-# Hi 👋  my name is Priscila Vieira  
+# Hi 👋  my name is Priscila
 <br>
 I'm your software testing friend 👩‍💻. Lover of quality testing, 🤖 enthusiast of agile practices.
 <br>
