@@ -5,18 +5,16 @@ I'm your software testing friend 👩‍💻. Lover of quality testing, 🤖 ent
 <br>
 Passionate about reliable, high-quality software. 🚀
 
---------------------------------------------------------------------------
-<br>
-🤝 I'm looking for opportunities to work as a software quality analyst. I have experience in requirements analysis, creating detailed test cases, and executing functional and non-functional tests, working in teams that used the Scrum framework. I'm committed to continuous learning to deliver excellent work.
-<br>
+## 🤝 Professional Objective
+Seeking opportunities as a Software Quality Analyst where I can apply my experience in requirements analysis, detailed test case design, and execution of functional and non-functional tests within Scrum teams. I’m committed to continuous learning and delivering excellent results.
 <br>
 
-🧠 Currently, I'm deepening my knowledge in Front-end test automation with Cypress and Robot Framework, as well as enhancing my skills in Back-end testing using Postman and JavaScript
-<br>
+## 🧠 Current Focus
+- Front-end test automation with Cypress and Robot Framework  
 <br>
 
-### 🎖️ Languages
-◾  ***Advanced English*** 
+## 🎖️ Languages
+◾  ***Intermediate English*** 
 <br>
 ◾  ***Intermediate Spanish*** 
 <br>
